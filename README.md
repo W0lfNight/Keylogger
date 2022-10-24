@@ -13,3 +13,7 @@ how to run -> python3 keylogger.py
 anything you type now gets written in log.txt
 
 how to exit -> press esc key
+
+
+
+if you have any suggestion to improve this i would love to hear the just  email me -> w0lfnight.github@gmail.com
