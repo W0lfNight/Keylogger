@@ -4,7 +4,7 @@ simple python keylogger
 
 how to install -> git clone https://github.com/W0lfNight/Keylogger.git
 
-cd keylogger
+cd Keylogger
 
 pip install -r requirements.txt
 
