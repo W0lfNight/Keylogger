@@ -10,4 +10,6 @@ pip install -r requirements.txt
 
 how to run -> python3 keylogger.py 
 
+anything you type now get written in log.txt
+
 how to exit -> press esc key
