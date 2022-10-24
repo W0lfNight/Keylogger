@@ -1,6 +1,6 @@
 # Keylogger
 
-simple python keylogge
+simple python keylogger
 
 how to install -> git clone https://github.com/W0lfNight/Keylogger.git
 
